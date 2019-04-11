@@ -11,21 +11,21 @@
     },
     {
       "id":2,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[0,3098],
+      "xmaxs":[681,3381],
+      "ymins":[2809,3033],
+      "ymaxs":[2985,3106],
+      "classes_text":["EngineOil","WasherFluid"],
+      "classes":[1,2]
     },
     {
       "id":3,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[2553,3876],
+      "xmaxs":[2870,4107],
+      "ymins":[1964,2744],
+      "ymaxs":[2190,2871],
+      "classes_text":["EngineOil","WasherFluid"],
+      "classes":[1,2]
     },
     {
       "id":4,
@@ -38,93 +38,93 @@
     },
     {
       "id":5,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[2676],
+      "xmaxs":[2847],
+      "ymins":[885],
+      "ymaxs":[1128],
+      "classes_text":["EngineOil"],
+      "classes":[1]
     },
     {
       "id":6,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[1543],
+      "xmaxs":[2302],
+      "ymins":[1765],
+      "ymaxs":[2552],
+      "classes_text":["WasherFluid"],
+      "classes":[2]
     },
     {
       "id":7,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[1948],
+      "xmaxs":[2138],
+      "ymins":[792],
+      "ymaxs":[1084],
+      "classes_text":["EngineOil"],
+      "classes":[1]
     },
     {
       "id":8,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[0],
+      "xmaxs":[604],
+      "ymins":[2882],
+      "ymaxs":[3469],
+      "classes_text":["EngineOil"],
+      "classes":[1]
     },
     {
       "id":9,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[2229,4014],
+      "xmaxs":[2545,4231],
+      "ymins":[1451,2376],
+      "ymaxs":[1710,2558],
+      "classes_text":["EngineOil","WasherFluid"],
+      "classes":[1,2]
     },
     {
       "id":10,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[2680,3914],
+      "xmaxs":[2957,4161],
+      "ymins":[1617,2189],
+      "ymaxs":[1824,2352],
+      "classes_text":["EngineOil","WasherFluid"],
+      "classes":[1,2]
     },
     {
       "id":11,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[2550,3758],
+      "xmaxs":[2876,4020],
+      "ymins":[2200,3157],
+      "ymaxs":[2409,3274],
+      "classes_text":["EngineOil","WasherFluid"],
+      "classes":[1,2]
     },
     {
       "id":12,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[1685],
+      "xmaxs":[2361],
+      "ymins":[2565],
+      "ymaxs":[3281],
+      "classes_text":["EngineOil"],
+      "classes":[1]
     },
     {
       "id":13,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[802],
+      "xmaxs":[3251],
+      "ymins":[1843],
+      "ymaxs":[4248],
+      "classes_text":["EngineOil"],
+      "classes":[1]
     },
     {
       "id":14,
-      "xmins":[],
-      "xmaxs":[],
-      "ymins":[],
-      "ymaxs":[],
-      "classes_text":[],
-      "classes":[]
+      "xmins":[850],
+      "xmaxs":[3456],
+      "ymins":[0],
+      "ymaxs":[4481],
+      "classes_text":["WasherFluid"],
+      "classes":[2]
     },
     {
       "id":15,
