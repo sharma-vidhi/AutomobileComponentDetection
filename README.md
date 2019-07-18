@@ -1,1 +1,2 @@
-## Master Project - Automobile Component Detection Mobile App
+#### Automobile Component Detection Mobile App
+
