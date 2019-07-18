@@ -1,5 +1,0 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Under the Hood</string>
-    <string name="toggle_camera" tools:ignore="ExtraTranslation">Toggle Camera</string>
-    <string name="detect_object">Detect Object</string>
-</resources>
